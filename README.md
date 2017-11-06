@@ -1,3 +1,17 @@
+# 1 - Instale o Homebrew
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# 2 - Instale o Fish Shell
+
+https://fishshell.com/
+
+brew install fish
+
+# 3 - Instale o Iterm2
+
+https://www.iterm2.com/
+
 # customizar_iterm2
 Links explicativos para customização do iterm2 do mac os x
 
@@ -45,6 +59,5 @@ Dentro do arquivo trocar a linha: ZSH_THEME="agnoster"
 https://gist.github.com/kevin-smets/8568070
 
 #Oh My Fish
-
 https://github.com/oh-my-fish/oh-my-fish
 
