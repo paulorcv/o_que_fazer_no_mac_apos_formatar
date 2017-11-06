@@ -58,8 +58,14 @@ Dentro do arquivo trocar a linha: ZSH_THEME="agnoster"
 
 https://gist.github.com/kevin-smets/8568070
 
-# 2 - Segundo método
+# Segundo método
 
 #Oh My Fish
 https://github.com/oh-my-fish/oh-my-fish
+
+# 4 - Instale o Visutal Studio Code
+
+https://code.visualstudio.com/
+
+
 
