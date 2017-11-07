@@ -1,6 +1,6 @@
 # 1 - Instale o Homebrew ![Homebrew Logo](https://assets-cdn.github.com/images/icons/emoji/unicode/1f37a.png)
 
-```
+```sh
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
@@ -8,7 +8,7 @@
 ![Fish Logo](https://fishshell.com/assets/img/screenshots/autosuggestion.png)
 https://fishshell.com/
 
-```
+```sh
 brew install fish
 ```
 
