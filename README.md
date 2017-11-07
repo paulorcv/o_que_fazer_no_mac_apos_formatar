@@ -81,5 +81,12 @@ https://github.com/oh-my-fish/oh-my-fish
 
 https://code.visualstudio.com/
 
+# 5 - GIT REBASE
 
+git remote add upstream "diretorio master oficial"
 
+git fetch upstream
+
+git merge upstream/master master
+
+git push -f origin master
