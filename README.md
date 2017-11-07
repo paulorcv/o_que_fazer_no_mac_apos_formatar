@@ -81,7 +81,7 @@ https://github.com/oh-my-fish/oh-my-fish
 
 https://code.visualstudio.com/
 
-# 5 - GIT REBASE
+# 5 - Git Rebase
 
 git remote add upstream "diretorio master oficial"
 
