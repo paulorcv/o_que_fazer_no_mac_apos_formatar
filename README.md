@@ -3,8 +3,8 @@
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-# 2 - Instale o Fish Shell ![Fish Logo](https://fishshell.com/assets/img/screenshots/autosuggestion.png)
-
+# 2 - Instale o Fish Shell 
+![Fish Logo](https://fishshell.com/assets/img/screenshots/autosuggestion.png)
 https://fishshell.com/
 
 brew install fish
