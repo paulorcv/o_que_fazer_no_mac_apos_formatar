@@ -17,10 +17,10 @@ brew install fish
 
 https://www.iterm2.com/
 
-# customizar_iterm2
+## customizar_iterm2
 Links explicativos para customização do iterm2 do mac os x
 
-# Primeiro método
+#### Primeiro método
 1 - iTerm e Oh My Zsh
 
 Iterm2: https://www.iterm2.com/
@@ -30,7 +30,7 @@ Cmd + D para split vertical
 Cmd + Shift + D para split horizontal
 Cmd + F para pesquisar
 
-#Oh My Zsh
+#### Oh My Zsh
 
 Instalar:
 
@@ -40,7 +40,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 github do projeto: https://github.com/robbyrussell/oh-my-zsh
 
-# Esquema de cores Solarized
+#### Esquema de cores Solarized
 
 Instalar:
 ```shell
@@ -71,9 +71,9 @@ Dentro do arquivo trocar a linha: ZSH_THEME="agnoster"
 
 https://gist.github.com/kevin-smets/8568070
 
-# Segundo método
+#### Segundo método
 
-#Oh My Fish
+##### Oh My Fish
 https://github.com/oh-my-fish/oh-my-fish
 
 # 4 - Instale o Visual Studio Code
