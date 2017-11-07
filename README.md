@@ -1,9 +1,9 @@
-# 1 - Instale o Homebrew ![CSCore Logo](https://assets-cdn.github.com/images/icons/emoji/unicode/1f37a.png)
+# 1 - Instale o Homebrew ![Homebrew Logo](https://assets-cdn.github.com/images/icons/emoji/unicode/1f37a.png)
 
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-# 2 - Instale o Fish Shell
+# 2 - Instale o Fish Shell ![Fish Logo](https://fishshell.com/assets/img/screenshots/autosuggestion.png)
 
 https://fishshell.com/
 
