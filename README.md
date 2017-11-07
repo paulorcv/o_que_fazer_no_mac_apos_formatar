@@ -20,7 +20,7 @@ https://www.iterm2.com/
 ## customizar_iterm2
 Links explicativos para customização do iterm2 do mac os x
 
-#### Primeiro método
+### Primeiro método
 1 - iTerm e Oh My Zsh
 
 Iterm2: https://www.iterm2.com/
@@ -49,7 +49,7 @@ curl -o ~/Downloads/solarized.itermcolors https://raw.githubusercontent.com/alte
 
 Para utilizar o tema, entrar no Iterm e Cmd + i para abrir as preferências, vá na aba Colors e na caixa de seleção Color Presets, selecione import e localize o arquivo baixado.
 
-#Meslo Font
+#### Meslo Font
 
 ```shell
 git clone https://github.com/powerline/fonts.git && cd fonts && ./install.sh
@@ -57,7 +57,7 @@ git clone https://github.com/powerline/fonts.git && cd fonts && ./install.sh
 
 Cmd + i novamente, vá na aba Text e altere Font e Non-ASCII Font para Meslo LG L for Powerline.
 
-#Tema Agnoster para Oh My Zsh
+#### Tema Agnoster para Oh My Zsh
 
 Abra o arquivo ~/.zshrc com um editor de texto e mude o parâmetro ZSH_THEME para agnoster.
 
@@ -67,13 +67,14 @@ code ~/.zshrc
 
 Dentro do arquivo trocar a linha: ZSH_THEME="agnoster"
 
-#Outros métodos:
+#### Outros métodos:
 
 https://gist.github.com/kevin-smets/8568070
 
-#### Segundo método
+### Segundo método
 
 ##### Oh My Fish
+
 https://github.com/oh-my-fish/oh-my-fish
 
 # 4 - Instale o Visual Studio Code
